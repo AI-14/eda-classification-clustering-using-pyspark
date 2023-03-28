@@ -7,7 +7,7 @@
   
 Course Project: ICS 474/211 - Big Data Analytics
  
-# Table of contents
+## Table of contents
 1. [Description](#description)
 2. [Installation and Usage](#installation-usage)
 3. [Team Members](#team-members)
