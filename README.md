@@ -1,10 +1,5 @@
 # Big-Data-PySpark-Project
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-566be8?style=flat)
-![Big Data](https://img.shields.io/badge/-Big%20Data-yellow?style=flat)
-![PySpark](https://img.shields.io/badge/-PySpark-darkgreen?style=flat)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-black?style=flat&logo=jupyter)
-  
+
 Course Project: ICS 474/211 - Big Data Analytics
  
 ## Table of contents
